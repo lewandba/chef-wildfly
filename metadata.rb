@@ -14,7 +14,7 @@ supports 'ubuntu'
 
 depends 'apt'
 depends 'yum'
-depends 'java', '~> 1.22'
+depends 'java'
 depends 'systemd'
 
 gem 'net-http-digest_auth'
